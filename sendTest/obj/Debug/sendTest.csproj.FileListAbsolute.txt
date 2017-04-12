@@ -1,0 +1,9 @@
+c:\users\divyeshb\documents\visual studio 2017\Projects\sendTest\sendTest\bin\Debug\sendTest.exe.config
+c:\users\divyeshb\documents\visual studio 2017\Projects\sendTest\sendTest\bin\Debug\sendTest.exe
+c:\users\divyeshb\documents\visual studio 2017\Projects\sendTest\sendTest\bin\Debug\sendTest.pdb
+c:\users\divyeshb\documents\visual studio 2017\Projects\sendTest\sendTest\bin\Debug\Microsoft.Azure.Amqp.dll
+c:\users\divyeshb\documents\visual studio 2017\Projects\sendTest\sendTest\bin\Debug\Microsoft.Azure.EventHubs.dll
+c:\users\divyeshb\documents\visual studio 2017\Projects\sendTest\sendTest\bin\Debug\Microsoft.Azure.Amqp.xml
+c:\users\divyeshb\documents\visual studio 2017\Projects\sendTest\sendTest\obj\Debug\sendTest.csprojResolveAssemblyReference.cache
+c:\users\divyeshb\documents\visual studio 2017\Projects\sendTest\sendTest\obj\Debug\sendTest.exe
+c:\users\divyeshb\documents\visual studio 2017\Projects\sendTest\sendTest\obj\Debug\sendTest.pdb
